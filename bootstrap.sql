@@ -16,13 +16,13 @@ CREATE TABLE movies (
     rated VARCHAR(10)
 );
 CREATE TABLE genres (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id CHAR(36) PRIMARY KEY,
     genre_name VARCHAR(255) NOT NULL,
     genre_level TINYINT NOT NULL CHECK (genre_level BETWEEN 0 AND 4)
 );
 CREATE TABLE movie_genres (
     movie_id INT NOT NULL,
-    genre_id INT NOT NULL,
+    genre_id CHAR(36) NOT NULL,
     PRIMARY KEY (movie_id, genre_id), -- < ensures no duplicate pairs
     -- this ensures movie_id and genre_id exist in the respective tables
     FOREIGN KEY (movie_id) REFERENCES movies(id) ON DELETE CASCADE,
@@ -554,44 +554,44 @@ VALUES
     ("GoldenEye", 1995, "PG-13"),
     ("The Next Man", 1976, "R");
 
-INSERT INTO genres (genre_name, genre_level)
-VALUES 
-    ("Science Fiction", 1),
-    ("Drama", 1),
-    ("Thriller", 1),
-    ("Sports", 2),
-    ("Coming of Age", 2),
-    ("Mystery", 2),
-    ("Fantasy", 1),
-    ("Action", 1),
-    ("Adventure", 1),
-    ("Comedy", 1),
-    ("Teen", 2),
-    ("Raunchy", 2),
-    ("Animation", 2),
-    ("Romance", 1),
-    ("Historical", 2),
-    ("Crime", 2),
-    ("Horror", 1),
-    ("Romantic Comedy", 1),
-    ("Satire", 2),
-    ("Family", 2),
-    ("Cars/Racing", 3),
-    ("Survival", 2),
-    ("Super Hero", 2),
-    ("Western", 1),
-    ("Dark Comedy", 1),
-    ("Musical", 2),
-    ("Slasher", 2),
-    ("Spy", 2),
-    ("Light-Hearted", 3),
-    ("Monster", 2),
-    ("War", 1),
-    ("Disaster", 2),
-    ("Epic", 2),
-    ("Biographical", 2),
-    ("Kids", 2),
-    ("Noir", 1);
+INSERT INTO genres (id, genre_name, genre_level)
+VALUES
+    ("e48c8f03-322a-4b09-9f11-9d21b597282c", "Science Fiction", 1),
+    ("0f3713c6-84ec-48d2-a14b-b6a20796f576", "Drama", 1),
+    ("88c18939-389d-485c-8b25-9150c7a4b321", "Thriller", 1),
+    ("bf23cda5-e34e-4b01-bcb2-8424118d5de9", "Sports", 2),
+    ("6195989e-edcb-4146-a8d2-f13d671c37d0", "Coming of Age", 2),
+    ("a1c2245a-b9dd-4e26-b296-4120f2f1981d", "Mystery", 2),
+    ("06b60879-1327-48f1-82ca-76deee936203", "Fantasy", 1),
+    ("1629939b-055e-452f-8336-e38e8210d7ad", "Action", 1),
+    ("4ea7b728-07a5-4488-ac74-92e9fbf8387f", "Adventure", 1),
+    ("df3d5d58-9be9-4f8c-ad86-2288ff13b9f1", "Comedy", 1),
+    ("4733699b-d1ed-410f-afa7-eadd3972de35", "Teen", 2),
+    ("730d012e-7c9d-449e-9b08-b028cc8f9d3a", "Raunchy", 2),
+    ("ecd0345b-68c7-4500-a527-07cef9e55108", "Animation", 2),
+    ("d95b256c-3abc-4fcd-a35d-16281ac3cb29", "Romance", 1),
+    ("7db6eb86-15c1-48d4-ad44-0b59f6b8f272", "Historical", 2),
+    ("dfc2613c-376e-461e-ba43-22a4197ac2e6", "Crime", 2),
+    ("f937208d-1f44-44ba-a0f3-53fb577ba590", "Horror", 1),
+    ("e2ea5872-a4a3-49de-b21e-ab1401554278", "Romantic Comedy", 1),
+    ("0a2e1786-e3b5-43b3-a116-6f405b270b9d", "Satire", 2),
+    ("3a906625-ee25-46a1-916f-1b407532e2ad", "Family", 2),
+    ("94d1a3af-4a88-4765-8396-ef35429df398", "Cars/Racing", 3),
+    ("adbf8775-cc9c-4ca7-9b9a-ff55e031c47a", "Survival", 2),
+    ("e039c39e-a152-41bc-a648-cd09b901ff59", "Super Hero", 2),
+    ("7621b34b-f354-4e86-9ed3-23e1d1c5497b", "Western", 1),
+    ("e21dd9bb-9659-4cd8-866e-06e5066c072d", "Dark Comedy", 1),
+    ("8882caf7-6992-480f-9749-16317afbceaa", "Musical", 2),
+    ("3e715bce-a53c-4ae5-aec5-f4d9ecbef458", "Slasher", 2),
+    ("c433f828-aed8-4ee9-84c7-7b9da608b93d", "Spy", 2),
+    ("d80badaf-38ac-4ae4-a1ae-223d9d390089", "Light-Hearted", 3),
+    ("4592ca1b-3787-4796-baf2-9a89ff5cc0ba", "Monster", 2),
+    ("cea933f8-adad-433d-b88e-8c04769fc4d4", "War", 1),
+    ("1da308b2-7bdc-4327-ae38-d1b38952097f", "Disaster", 2),
+    ("ba07b109-4d2e-46fd-8598-274526b30b4c", "Epic", 2),
+    ("75690588-adff-48e1-ae49-1c7d6de8a3be", "Biographical", 2),
+    ("c9de397a-a370-4a25-9d53-a63b3d4dc23b", "Kids", 2),
+    ("6f240a94-3e2e-4835-a163-1e39b1e0f57a", "Noir", 1);
 
 INSERT INTO reviewers (reviewer_name)
 VALUES

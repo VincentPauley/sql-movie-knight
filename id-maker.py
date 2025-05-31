@@ -1,0 +1,43 @@
+import uuid
+
+existing_records = [
+    '"Science Fiction", 1),',
+    '"Drama", 1),',
+    '"Thriller", 1),',
+    '"Sports", 2),',
+    '"Coming of Age", 2),',
+    '"Mystery", 2),',
+    '"Fantasy", 1),',
+    '"Action", 1),',
+    '"Adventure", 1),',
+    '"Comedy", 1),',
+    '"Teen", 2),',
+    '"Raunchy", 2),',
+    '"Animation", 2),',
+    '"Romance", 1),',
+    '"Historical", 2),',
+    '"Crime", 2),',
+    '"Horror", 1),',
+    '"Romantic Comedy", 1),',
+    '"Satire", 2),',
+    '"Family", 2),',
+    '"Cars/Racing", 3),',
+    '"Survival", 2),',
+    '"Super Hero", 2),',
+    '"Western", 1),',
+    '"Dark Comedy", 1),',
+    '"Musical", 2),',
+    '"Slasher", 2),',
+    '"Spy", 2),',
+    '"Light-Hearted", 3),',
+    '"Monster", 2),',
+    '"War", 1),',
+    '"Disaster", 2),',
+    '"Epic", 2),',
+    '"Biographical", 2),',
+    '"Kids", 2),',
+    '"Noir", 1);',
+]
+
+for record in existing_records:
+    print(f'("{uuid.uuid4()}", {record}')
