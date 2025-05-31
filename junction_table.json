@@ -80,12 +80,12 @@
     {
       "reviewer": "vinnie",
       "score": 100,
-      "movie_title": " The Dark Knight"
+      "movie_title": "The Dark Knight"
     },
     {
       "reviewer": "holly",
       "score": 100,
-      "movie_title": " The Dark Knight"
+      "movie_title": "The Dark Knight"
     },
     {
       "genre": "Action",
@@ -1866,11 +1866,11 @@
     },
     {
       "genre": "Fantasy",
-      "movie_title": " Defending Your Life"
+      "movie_title": "Defending Your Life"
     },
     {
       "genre": "Comedy",
-      "movie_title": " Defending Your Life"
+      "movie_title": "Defending Your Life"
     },
     {
       "genre": "Western",
