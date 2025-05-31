@@ -13,4 +13,7 @@ services:
     ports:
       - "3306:3306"
     volumes:
+      - sql_data:/var/lib/mysql
       - ./bootstrap.sql:/docker-entrypoint-initdb.d/bootstrap.sql
+volumes:
+  sql_data:
