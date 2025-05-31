@@ -1,0 +1,5554 @@
+{
+  "records": [
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Stepford Wives"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Stepford Wives"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Whiplash"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Whiplash"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Whiplash"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "Whiplash"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Breaking Away"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Breaking Away"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Breaking Away"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Arrival"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Arrival"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Arrival"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Arrival"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Arrival"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": " The Dark Knight"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": " The Dark Knight"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Mummy"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Mummy"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Superbad"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Superbad"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Superbad"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Grandma's Boy"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Grandma's Boy"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Island"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Island"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Tangled"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Tangled"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Tangled"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Tangled"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Tangled"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Tangled"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Moneyball"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Moneyball"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Moneyball"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "Moneyball"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "An Officer and a Gentleman"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "An Officer and a Gentleman"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Wolf of Wall Street"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Wolf of Wall Street"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Wolf of Wall Street"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Trainspotting"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Trainspotting"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Taken"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Taken"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Taken"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "World War Z"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Sleepy Hollow"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Sleepy Hollow"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "The Hangover"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Hangover"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Prestige"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Prestige"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Prestige"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "The Prestige"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Air"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Air"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Air"
+    },
+    {
+      "reviewer": "holly",
+      "score": 80,
+      "movie_title": "Air"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Knives Out"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Knives Out"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Euro Trip"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Euro Trip"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Graduate"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "The Graduate"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Graduate"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Graduate"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "500 Days of Summer"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "500 Days of Summer"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "500 Days of Summer"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Twilight"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Twilight"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Twilight"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Mean Girls"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Mean Girls"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Mean Girls"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Northman"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Northman"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "How to Lose a Guy in 10 Days"
+    },
+    {
+      "genre": "Satire",
+      "movie_title": "The Big Lebowski"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Big Lebowski"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Scary Movie"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Scary Movie"
+    },
+    {
+      "genre": "Satire",
+      "movie_title": "Scary Movie"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Scary Movie"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Scary Movie"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Rock"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Rock"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "The Rock"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Goonies"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "The Goonies"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Goonies"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Goonies"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Oldboy"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Oldboy"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Oldboy"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "The Waterboy"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Waterboy"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Risky Business"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Risky Business"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Risky Business"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Risky Business"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Risky Business"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Italian Job"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Italian Job"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "The Italian Job"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Sixteen Candles"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Sixteen Candles"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Sixteen Candles"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Sixteen Candles"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Sixteen Candles"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Miss Congeniality"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Miss Congeniality"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Miss Congeniality"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Baby Driver"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Baby Driver"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Baby Driver"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Baby Driver"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "Baby Driver"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Cast Away"
+    },
+    {
+      "genre": "Survival",
+      "movie_title": "Cast Away"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Cast Away"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Frequently Asked Questions About Time Travel"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Frequently Asked Questions About Time Travel"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Bull Durham"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Bull Durham"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Bandits"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Bandits"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Bandits"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Seeking a Friend for the End of the World"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Seeking a Friend for the End of the World"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Seeking a Friend for the End of the World"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Seeking a Friend for the End of the World"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Seeking a Friend for the End of the World"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Stand by Me"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Donnie Darko"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Donnie Darko"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Donnie Darko"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Donnie Darko"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Donnie Darko"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Eagle Eye"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Eagle Eye"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Eagle Eye"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Eagle Eye"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Something's Gotta Give"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Something's Gotta Give"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Ferris Bueller's Day Off"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Ferris Bueller's Day Off"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Ferris Bueller's Day Off"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Ferris Bueller's Day Off"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Shaun of the Dead"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Shaun of the Dead"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Shaun of the Dead"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Spaceballs"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Spaceballs"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Five Nights at Freddy's"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "Five Nights at Freddy's"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Crazy, Stupid, Love"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Crazy, Stupid, Love"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Crazy, Stupid, Love"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Crazy, Stupid, Love"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Oppenheimer"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Oppenheimer"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Oppenheimer"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "Oppenheimer"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Hook"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Hook"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Hook"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Big Fish"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Big Fish"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Big Fish"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Big Fish"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Seven Pounds"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Seven Pounds"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Scott Pilgrim vs. the World"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Scott Pilgrim vs. the World"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Scott Pilgrim vs. the World"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Terminator 3: Rise of the Machines"
+    },
+    {
+      "genre": "Survival",
+      "movie_title": "The Terminator 3: Rise of the Machines"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Terminator 3: Rise of the Machines"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "The Terminator 3: Rise of the Machines"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "What's Your Number?"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "What's Your Number?"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Game"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Game"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Killers of the Flower Moon"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "Killers of the Flower Moon"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Breakfast Club"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "The Breakfast Club"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "The Breakfast Club"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "The Breakfast Club"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Good Will Hunting"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Good Will Hunting"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Good Will Hunting"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Good Will Hunting"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Don't Look Up"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Don't Look Up"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Don't Look Up"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Due Date"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Transcendence"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Transcendence"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Ex Machina"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Ex Machina"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Ex Machina"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "National Treasure: Book of Secrets"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "National Treasure: Book of Secrets"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "National Treasure: Book of Secrets"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Uncut Gems"
+    },
+    {
+      "genre": "Dark Comedy",
+      "movie_title": "Uncut Gems"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Uncut Gems"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Uncut Gems"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Vice"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Vice"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Shining"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Shining"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The Shining"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Goodfellas"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Goodfellas"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Next"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Next"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Next"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Lion King"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "The Lion King"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "The Lion King"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Lion King"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "The Lion King"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Stepbrothers"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Stepbrothers"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Stepbrothers"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Zoolander"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Sleepless in Seattle"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "A League of Their Own"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "A League of Their Own"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "A League of Their Own"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "A League of Their Own"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "It's a Wonderful Life"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "It's a Wonderful Life"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "It's a Wonderful Life"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Interview"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Interview"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "The Interview"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Minority Report"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Minority Report"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Memento"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Liar Liar"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Liar Liar"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "American Psycho"
+    },
+    {
+      "genre": "Slasher",
+      "movie_title": "American Psycho"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Edward Scissorhands"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Edward Scissorhands"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Major League"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Major League"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Major League"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Rush Hour"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Rush Hour"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Rush Hour"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "America's Sweethearts"
+    },
+    {
+      "genre": "Satire",
+      "movie_title": "America's Sweethearts"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "America's Sweethearts"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Red"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Red"
+    },
+    {
+      "genre": "Spy",
+      "movie_title": "Kingsman: Secret Service"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Kingsman: Secret Service"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Kingsman: Secret Service"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Kingsman: Secret Service"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Kingsman: Secret Service"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Illusionist"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Illusionist"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "The Illusionist"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "The Illusionist"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Mr. Deeds"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Mr. Deeds"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Mr. Deeds"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Mr. Deeds"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Pulp Fiction"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Pulp Fiction"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Midnight in Paris"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Midnight in Paris"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Anger Management"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Anger Management"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Weird Science"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Weird Science"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Weird Science"
+    },
+    {
+      "genre": "Monster",
+      "movie_title": "Jaws"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Jaws"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Jaws"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Jaws"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Knocked Up"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Knocked Up"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Knocked Up"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Forrest Gump"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Forrest Gump"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Forrest Gump"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "Forrest Gump"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Knowing"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Knowing"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Knowing"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Curious Case of Benjamin Button"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Curious Case of Benjamin Button"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Caddyshack"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Caddyshack"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Caddyshack"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Fun with Dick and Jane"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Fun with Dick and Jane"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Scream"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Requiem for a Dream"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Requiem for a Dream"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Requiem for a Dream"
+    },
+    {
+      "reviewer": "holly",
+      "score": 80,
+      "movie_title": "Requiem for a Dream"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Departed"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Departed"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The Departed"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Full Metal Jacket"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Full Metal Jacket"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Pursuit of Happyness"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Pursuit of Happyness"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Tropic Thunder"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Tropic Thunder"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Tropic Thunder"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Click"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Click"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Catch me if you can"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Catch me if you can"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Catch me if you can"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "Catch me if you can"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Rocker"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "The Rocker"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "Blazing Saddles"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Blazing Saddles"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Seven"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Seven"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Mona Lisa Smile"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Mona Lisa Smile"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Machinist"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "American Hustle"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "American Hustle"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Deep Impact"
+    },
+    {
+      "genre": "Disaster",
+      "movie_title": "Deep Impact"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Deep Impact"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Deep Impact"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Deep Impact"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Deep Impact"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Her"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Her"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "The Magnificent 7"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Magnificent 7"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Zootopia"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Zootopia"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Hardcore Henry"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Hardcore Henry"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Hardcore Henry"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "I, Robot"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "I, Robot"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Once Upon a Time in Hollywood"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "Once Upon a Time in Hollywood"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Once Upon a Time in Hollywood"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Once Upon a Time in Hollywood"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Once Upon a Time in Hollywood"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Top Gun"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Top Gun"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Clueless"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Clueless"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Clueless"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Clueless"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "Clueless"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Princess Bride"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Princess Bride"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Princess Bride"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "The Princess Bride"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "RV"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "RV"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "E.T the Extra-Terrestrial"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "E.T the Extra-Terrestrial"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Defiance"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Defiance"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Defiance"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "They Came Together"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "They Came Together"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "They Came Together"
+    },
+    {
+      "genre": "Satire",
+      "movie_title": "They Came Together"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "They Came Together"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Airplane!"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Airplane!"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Alice in Wonderland"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Alice in Wonderland"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Alice in Wonderland"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "Willy Wonka & the Chocolate Factory"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Willy Wonka & the Chocolate Factory"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Willy Wonka & the Chocolate Factory"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Willy Wonka & the Chocolate Factory"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Hateful Eight"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Hateful Eight"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "The Hateful Eight"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Hateful Eight"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Easy A"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Easy A"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Easy A"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Easy A"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Gran Torino"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Gran Torino"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Gran Torino"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Matrix"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Matrix"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Matrix"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Matrix"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "The Matrix"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "50 First Dates"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "50 First Dates"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "50 First Dates"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "50 First Dates"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Pretty in Pink"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Pretty in Pink"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Pretty in Pink"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Science of Sleep"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Science of Sleep"
+    },
+    {
+      "genre": "Disaster",
+      "movie_title": "2012"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "2012"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Groundhog Day"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Groundhog Day"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Groundhog Day"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Groundhog Day"
+    },
+    {
+      "genre": "Dark Comedy",
+      "movie_title": "Fargo"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Fargo"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Fargo"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "Fargo"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Blast from the Past"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Blast from the Past"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Blast from the Past"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Oceans Eleven"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Oceans Eleven"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Oceans Eleven"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Moonstruck"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Moonstruck"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": " Defending Your Life"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": " Defending Your Life"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "Three Amigos"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Three Amigos"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Dodgeball: A True Underdog Story"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Dodgeball: A True Underdog Story"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Dodgeball: A True Underdog Story"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Dodgeball: A True Underdog Story"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Dodgeball: A True Underdog Story"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Gone Girl"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Gone Girl"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Gladiator"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Gladiator"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Gladiator"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Gladiator"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Flight"
+    },
+    {
+      "genre": "Disaster",
+      "movie_title": "Flight"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Matilda"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Matilda"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Garden State"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Garden State"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Garden State"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Casino"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Casino"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Casino"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Drinking Buddies"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "Drinking Buddies"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "Drinking Buddies"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Reservoir Dogs"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Reservoir Dogs"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "1917"
+    },
+    {
+      "genre": "War",
+      "movie_title": "1917"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "American Beauty"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "American Beauty"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "American Beauty"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Hunter"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Hunter"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Hunter"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Wet Hot American Summer"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Wet Hot American Summer"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Wet Hot American Summer"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Nick & Norah's Infinite Playist"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Nick & Norah's Infinite Playist"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The French Dispatch"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The French Dispatch"
+    },
+    {
+      "genre": "Survival",
+      "movie_title": "Thirteen Lives"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Thirteen Lives"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Thirteen Lives"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Apocalypse Now"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Neighbors"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Neighbors"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "Neighbors"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Coneheads"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Coneheads"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Coneheads"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "Coneheads"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "No Country for Old Men"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "No Country for Old Men"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "No Country for Old Men"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "No Country for Old Men"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "National Treasure"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "National Treasure"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "National Treasure"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "National Treasure"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Yes Man"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Yes Man"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Yes Man"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Wayne's World"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Wayne's World"
+    },
+    {
+      "genre": "Epic",
+      "movie_title": "The Count of Monte Cristo"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Count of Monte Cristo"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Count of Monte Cristo"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Planet of the Apes"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Planet of the Apes"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Galaxy Quest"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Galaxy Quest"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Place Beyond the Pines"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Place Beyond the Pines"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "The Place Beyond the Pines"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Place Beyond the Pines"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Boogie Nights"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "What's Eating Gilbert Grape"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "What's Eating Gilbert Grape"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Legally Blonde"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Legally Blonde"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Legally Blonde"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Psycho"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Psycho"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "The Incredibles"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "The Incredibles"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Incredibles"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Home Alone"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Home Alone"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Menu"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Menu"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Menu"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "The Menu"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Snowpiercer"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Snowpiercer"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "V for Vendetta"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "V for Vendetta"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "V for Vendetta"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "V for Vendetta"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "V for Vendetta"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Terminator: Dark Fate"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Terminator: Dark Fate"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Moulin Rouge"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "Moulin Rouge"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Black Hawk Down"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Black Hawk Down"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Patriot"
+    },
+    {
+      "genre": "War",
+      "movie_title": "The Patriot"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Patriot"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Patriot"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Cheaper by the Dozen"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Cheaper by the Dozen"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "Cheaper by the Dozen"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Middle of Nowhere"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Middle of Nowhere"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Middle of Nowhere"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Contagion"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Contagion"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Good Luck Chuck"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "True Grit"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Hustle"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Hustle"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Hustle"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Nightmare Before Christmas"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "The Nightmare Before Christmas"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Fight Club"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Meet the Fockers"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Meet the Fockers"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Meet the Fockers"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Slaughter High"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Saving Private Ryan"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Saving Private Ryan"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Saving Private Ryan"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Saving Private Ryan"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Dead Poets Society"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Watchmen"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Watchmen"
+    },
+    {
+      "genre": "Biographical",
+      "movie_title": "The Highwaymen"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Highwaymen"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Highwaymen"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Highwaymen"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Zombieland"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Zombieland"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Zombieland"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Zombieland"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Invincible"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Invincible"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Invincible"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Free Guy"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Free Guy"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Last of the Mohicans"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Last of the Mohicans"
+    },
+    {
+      "genre": "War",
+      "movie_title": "The Last of the Mohicans"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Star Wars: Episode V - The Empire Strikes Back"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Star Wars: Episode V - The Empire Strikes Back"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Star Wars: Episode V - The Empire Strikes Back"
+    },
+    {
+      "genre": "Epic",
+      "movie_title": "Star Wars: Episode V - The Empire Strikes Back"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Star Wars: Episode V - The Empire Strikes Back"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "You've got Mail"
+    },
+    {
+      "genre": "Epic",
+      "movie_title": "Interstellar"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Interstellar"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Interstellar"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "Interstellar"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Brave Heart"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Brave Heart"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Haunted Mansion"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Haunted Mansion"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Godfather"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Godfather"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Godfather"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "The Godfather"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Timeline"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Timeline"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Timeline"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Titanic"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Titanic"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Titanic"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Titanic"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Blades of Glory"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Blades of Glory"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Blades of Glory"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Blades of Glory"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Casablanca"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Casablanca"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Casablanca"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Green Mile"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Green Mile"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Angry Birds Movie"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "The Angry Birds Movie"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "The Angry Birds Movie"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Inglorious Basterds"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Inglorious Basterds"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Inglorious Basterds"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Inglorious Basterds"
+    },
+    {
+      "genre": "Kids",
+      "movie_title": "The Super Mario Bros. Movie"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "The Super Mario Bros. Movie"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Super Mario Bros. Movie"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Walk the Line"
+    },
+    {
+      "genre": "Biographical",
+      "movie_title": "Walk the Line"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Walk the Line"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Django"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Indianna Jones and the Temple of Doom"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Indianna Jones and the Temple of Doom"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Inception"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Inception"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Inception"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Inception"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Hitch"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Town"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Town"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Schindler's List"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Schindler's List"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Batman Begins"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Batman Begins"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Batman Begins"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Batman Begins"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Nightcrawler"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Nightcrawler"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Contact"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Contact"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Contact"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Bird Box"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Bird Box"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "Bird Box"
+    },
+    {
+      "reviewer": "holly",
+      "score": 60,
+      "movie_title": "Bird Box"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Big"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Big"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "La La Land"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "La La Land"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "La La Land"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "La La Land"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Back to the Future"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Back to the Future"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Back to the Future"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Back to the Future"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Suicide Squad"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Suicide Squad"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Great Gatsby"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Great Gatsby"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Monty Python and the Holy Grail"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Blow"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Blow"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Truman Show"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Truman Show"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The Truman Show"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "The Truman Show"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Taxi Driver"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Taxi Driver"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Eight Men Out"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Eight Men Out"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Ghosts of Girlfriends Past"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "Ghosts of Girlfriends Past"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "Dances with Wolves"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Dances with Wolves"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Sixth Sense"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Sixth Sense"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Sixth Sense"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "The Sixth Sense"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Sound of Music"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "The Sound of Music"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Alien"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Alien"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Notebook"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Notebook"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "The Notebook"
+    },
+    {
+      "reviewer": "holly",
+      "score": 75,
+      "movie_title": "The Notebook"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Immitation Game"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Immitation Game"
+    },
+    {
+      "genre": "Biographical",
+      "movie_title": "Immitation Game"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Immitation Game"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "A Knight's Tale"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "A Knight's Tale"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "A Knight's Tale"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "A Knight's Tale"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Music and Lyrics"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Music and Lyrics"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Casino Royale"
+    },
+    {
+      "genre": "Spy",
+      "movie_title": "Casino Royale"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Casino Royale"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Jurassic Park"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Jurassic Park"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Jurassic Park"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Anchorman: The Legend of Ron Burgundy"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Bruce Almighty"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Bruce Almighty"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Bruce Almighty"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Bridget Jones's Diary"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Pretty Woman"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Pretty Woman"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Road"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Road"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "This is Spinal Tap"
+    },
+    {
+      "genre": "Biographical",
+      "movie_title": "This is Spinal Tap"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Gone in 60 Seconds"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "Gone in 60 Seconds"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Cars"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "Cars"
+    },
+    {
+      "genre": "Kids",
+      "movie_title": "Cars"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "The Angry Birds Movie 2"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "The Angry Birds Movie 2"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Angry Birds Movie 2"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Charlie Bartlett"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Charlie Bartlett"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Charlie Bartlett"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Charlie Bartlett"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Charlie Bartlett"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "21"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "21"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Pearl Harbor"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Pearl Harbor"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The 40-Year-Old Virgin"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Sense and Sensibility"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Sense and Sensibility"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "Talladega Nights: The Ballad of Ricky Bobby"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Talladega Nights: The Ballad of Ricky Bobby"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Talladega Nights: The Ballad of Ricky Bobby"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "War of the Worlds"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "War of the Worlds"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Devil Wears Prada"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Devil Wears Prada"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "The Devil Wears Prada"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "This is the End"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Little Miss Sunshine"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Little Miss Sunshine"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Little Miss Sunshine"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Kick-Ass"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Kick-Ass"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Kick-Ass"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Bridesmaids"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Freaky Friday"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Freaky Friday"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Freaky Friday"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Freaky Friday"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Leatherheads"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Leatherheads"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Leatherheads"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "A Clockwork Orange"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "A Clockwork Orange"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Friends with Benefits"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "Cars 3"
+    },
+    {
+      "genre": "Kids",
+      "movie_title": "Cars 3"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Cars 3"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Meet Joe Black"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The  Martian"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The  Martian"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The  Martian"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Wedding Crashers"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Wedding Crashers"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Wedding Crashers"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Wedding Crashers"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Wedding Crashers"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Seabiscuit"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Seabiscuit"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "School of Rock"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "School of Rock"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "School of Rock"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "School of Rock"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Ford v Ferrari"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "Ford v Ferrari"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Ford v Ferrari"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Ford v Ferrari"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Three Musketeers"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Three Musketeers"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Three Musketeers"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "The Three Musketeers"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "National Lampoon's Animal House"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "National Lampoon's Animal House"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Lego Movie"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Lego Movie"
+    },
+    {
+      "genre": "Kids",
+      "movie_title": "The Lego Movie"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "The Lego Movie"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Raising Arizona"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Raising Arizona"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "The Good, the Bad and the Ugly"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 60,
+      "movie_title": "The Good, the Bad and the Ugly"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "A Walk to Remember"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "A Walk to Remember"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "A Walk to Remember"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "A Walk to Remember"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Book of Eli"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Book of Eli"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "The Book of Eli"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "I Am Legend"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "I Am Legend"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "I Am Legend"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "I Am Legend"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Passengers"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Passengers"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Amadeus"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Amadeus"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Amadeus"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Zodiac"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Zodiac"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "We're the Millers"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "We're the Millers"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Joker"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Joker"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Fast Times at Ridgemont High"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Fast Times at Ridgemont High"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Fast Times at Ridgemont High"
+    },
+    {
+      "reviewer": "holly",
+      "score": 75,
+      "movie_title": "Fast Times at Ridgemont High"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Kate & Leopold "
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Kate & Leopold "
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Kate & Leopold "
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "I Love You, Man"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "I Love You, Man"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "I Love You, Man"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "I Love You, Man"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Finding Neverland"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Finding Neverland"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Big Short"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Big Short"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Big Short"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "The F Word"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "The F Word"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Time Machine"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Time Machine"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Hidalgo"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "Hidalgo"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Holes"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Holes"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Holes"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Ghost"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Ghost"
+    },
+    {
+      "genre": "War",
+      "movie_title": "The Manchurian Candidate"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Manchurian Candidate"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Bicentenial Man"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Bicentenial Man"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Forever Young"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Forever Young"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Forever Young"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Passion of the Chist"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Passion of the Chist"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Speed"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Speed"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Cocoon"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Cocoon"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Benny & Joon"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Benny & Joon"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Benny & Joon"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Benny & Joon"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Benny & Joon"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Way Back"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Way Back"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Way Back"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Into the Wild"
+    },
+    {
+      "genre": "Coming of Age",
+      "movie_title": "Into the Wild"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Into the Wild"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "3:10 to Yuma"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "3:10 to Yuma"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Hancock"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Hancock"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Hancock"
+    },
+    {
+      "genre": "Cars/Racing",
+      "movie_title": "Cars 2"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Cars 2"
+    },
+    {
+      "genre": "Kids",
+      "movie_title": "Cars 2"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "Cars 2"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Days of Heaven"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Days of Heaven"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "American History X"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "American History X"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "American History X"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Silence of the Lambs"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Silence of the Lambs"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "The Silence of the Lambs"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Gravity"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Gravity"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "What Dreams may Come"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "What Dreams may Come"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "One Hundred and One Dalmations"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "One Hundred and One Dalmations"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Terminator Salvation"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Terminator Salvation"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Terminator Salvation"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "City of Angels"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "City of Angels"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "End of Watch"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "End of Watch"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Stripes"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Field of Dreams"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Field of Dreams"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Field of Dreams"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Cool Hand Luke"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Cool Hand Luke"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Happy Gilmore"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Happy Gilmore"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Signs"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Signs"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Signs"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Signs"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Dirty Dancing"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "There Will be Blood"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "There Will be Blood"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "There Will be Blood"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "There Will be Blood"
+    },
+    {
+      "genre": "Epic",
+      "movie_title": "The Shawshank Redemption"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Shawshank Redemption"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Shawshank Redemption"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Shawshank Redemption"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "The Shawshank Redemption"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Dinner for Schmucks"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "Dinner for Schmucks"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "Dinner for Schmucks"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Die Hard"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Die Hard"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Die Hard"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Die Hard"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "While You Were Sleeping"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "When Harry Met Sally"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "When Harry Met Sally"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Planes, Trains and Automobiles"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Planes, Trains and Automobiles"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Air Force One"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Air Force One"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Air Force One"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Just Friends"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Just Friends"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Enchanted"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Enchanted"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Enchanted"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Enchanted"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Terminator 2: Judgement Day"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Terminator 2: Judgement Day"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Terminator"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Terminator"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The Terminator"
+    },
+    {
+      "genre": "Light-Hearted",
+      "movie_title": "Footloose"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Footloose"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "RoboCop"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "RoboCop"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "The Wedding Singer"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "The Wedding Singer"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Fantastic Mr Fox"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Fantastic Mr Fox"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Fantastic Mr Fox"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Fantastic Mr Fox"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Founder"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "The Founder"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "The Founder"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Seven Psychopaths"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Seven Psychopaths"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Seven Psychopaths"
+    },
+    {
+      "reviewer": "holly",
+      "score": 75,
+      "movie_title": "Seven Psychopaths"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Falling Down"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Falling Down"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Falling Down"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Breakfast at Tiffan's"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Apollo 13"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Apollo 13"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Gangs of New York"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Gangs of New York"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "28 Days Later"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "28 Days Later"
+    },
+    {
+      "genre": "Survival",
+      "movie_title": "The Day After Tomorrow"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Day After Tomorrow"
+    },
+    {
+      "genre": "Disaster",
+      "movie_title": "The Day After Tomorrow"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "The Day After Tomorrow"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Mrs Doubtfire"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Mrs Doubtfire"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Silver Linings Playbook"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Silver Linings Playbook"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Silver Linings Playbook"
+    },
+    {
+      "reviewer": "holly",
+      "score": 100,
+      "movie_title": "Silver Linings Playbook"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Juno"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Juno"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Juno"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "Juno"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Fugitive"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Fugitive"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Village"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Village"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "The Village"
+    },
+    {
+      "reviewer": "holly",
+      "score": 80,
+      "movie_title": "The Village"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "WALL\u00b7E"
+    },
+    {
+      "reviewer": "holly",
+      "score": 85,
+      "movie_title": "WALL\u00b7E"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Unbreakable"
+    },
+    {
+      "genre": "War",
+      "movie_title": "300"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "300"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "300"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Seven Samurai"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Seven Samurai"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Be Kind Rewind"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Outbreak"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Outbreak"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Outbreak"
+    },
+    {
+      "reviewer": "holly",
+      "score": 75,
+      "movie_title": "Outbreak"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Napoleon Dynamite"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Napoleon Dynamite"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Fried Green Tomatoes"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Fried Green Tomatoes"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Moon"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Chocolat"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Chocolat"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Purge"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Purge"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Mars Attacks!"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Mars Attacks!"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Mars Attacks!"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Kicking & Screaming"
+    },
+    {
+      "genre": "Kids",
+      "movie_title": "Kicking & Screaming"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Kicking & Screaming"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Ghostbusters"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Ghostbusters"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Ghostbusters"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Ghostbusters"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Ted"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Ted"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Ted"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Forgetting Sarah Marshall"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Forgetting Sarah Marshall"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Forgetting Sarah Marshall"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Blob"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "The Blob"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Hangover Part 2"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Dog Day Afternoon"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Dog Day Afternoon"
+    },
+    {
+      "genre": "Teen",
+      "movie_title": "Accepted"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Accepted"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Ghost Rider"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Big Daddy"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Big Daddy"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "IT"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Aviator"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Sherlock Holmes"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Sherlock Holmes"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "City of God"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "City of God"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "Hairspray"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The Social Network"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "The Social Network"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Old Schook"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Two Weeks Notice"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Poor Things"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Poor Things"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Black Sheep"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Black Sheep"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Thank You for Smoking"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Irishman"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "The Irishman"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Goon"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Goon"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Dude, Where's My Car?"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Dude, Where's My Car?"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Road House"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Road House"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Ambulance"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Ambulance"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Love & Other Drugs"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Love & Other Drugs"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Love & Other Drugs"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Jarhead"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Jarhead"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Good Girl"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Good Girl"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "City Slickers"
+    },
+    {
+      "genre": "Western",
+      "movie_title": "City Slickers"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Moonlight Miles"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Moonlight Miles"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "About Time"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "About Time"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "There's Something About Mary"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "There's Something About Mary"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "There's Something About Mary"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Sex Tape"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The End of the Tour"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The End of the Tour"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Big Hit"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Big Hit"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "The Big Hit"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "The Big Hit"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Suicide Kings"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Suicide Kings"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Man of the Year"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Man of the Year"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Man on Fire"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Man on Fire"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Poolhall Junkies"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Poolhall Junkies"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Harry Potter and the Chamber of Secrets"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Harry Potter and the Chamber of Secrets"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Harry Potter and the Prisoner of Azkaban"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Harry Potter and the Prisoner of Azkaban"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Harry Potter and the Prisoner of Azkaban"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Gattaca"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Gattaca"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 100,
+      "movie_title": "Gattaca"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Sully"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Sully"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Looper"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Looper"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Luca"
+    },
+    {
+      "genre": "Animation",
+      "movie_title": "Luca"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Luca"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "Luca"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Life Aquatic with Steve Zissou"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "The Life Aquatic with Steve Zissou"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Singn' in the Rain"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "Singn' in the Rain"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Citizen Kane"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Citizen Kane"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Gone with the Wind"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Gone with the Wind"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "2001: A Space Odyssey"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "2001: A Space Odyssey"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Raiders of the Lost Ark"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Raiders of the Lost Ark"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Exorcist"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Exorcist"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "King Kong"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "King Kong"
+    },
+    {
+      "genre": "Monster",
+      "movie_title": "King Kong"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Godzilla"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Godzilla"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Godzilla"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Seven Year itch"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Seven Year itch"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Frankenstein"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Frankenstein"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Raging Bull"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Raging Bull"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Goldfinger"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Goldfinger"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Goldfinger"
+    },
+    {
+      "genre": "Spy",
+      "movie_title": "Goldfinger"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Sunset Boulevard"
+    },
+    {
+      "genre": "Noir",
+      "movie_title": "Sunset Boulevard"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Blade Runner"
+    },
+    {
+      "genre": "Science Fiction",
+      "movie_title": "Blade Runner"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Network"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Network"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "On the Waterfront"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "A Few Good Men"
+    },
+    {
+      "genre": "War",
+      "movie_title": "A Few Good Men"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Ben-Hur"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Ben-Hur"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Pan's Labrynth"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "Pan's Labrynth"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Moonlight"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Moonlight"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Get Out"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Get Out"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Chinatown"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Chinatown"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "West Side Story"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "West Side Story"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "West Side Story"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "West Side Story"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Cinderella Man"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Cinderella Man"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Cinderella Man"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Cinderella Man"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Cinderella Man"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "What If (The F Word)"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "What If (The F Word)"
+    },
+    {
+      "reviewer": "holly",
+      "score": 95,
+      "movie_title": "What If (The F Word)"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Prisoners"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Usual Suspects"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Woman in Black"
+    },
+    {
+      "genre": "Fantasy",
+      "movie_title": "The Woman in Black"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The King's Speech"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "The King's Speech"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "The Big Picture"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "The Big Picture"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Big Picture"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "The Cutting Edge"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "The Cutting Edge"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Waiting..."
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Waiting..."
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Employee of the Month"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Employee of the Month"
+    },
+    {
+      "genre": "Sports",
+      "movie_title": "Hoop Dreams"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Scarface"
+    },
+    {
+      "genre": "Crime",
+      "movie_title": "Scarface"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Romancing the Stone"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Romancing the Stone"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Crocodile Dundee"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "Crocodile Dundee"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Kill Bill: Volume 1"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Kill Bill: Volume 1"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Kill Bill: Volume 1"
+    },
+    {
+      "reviewer": "holly",
+      "score": 88,
+      "movie_title": "Kill Bill: Volume 1"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Greyhound"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Greyhound"
+    },
+    {
+      "genre": "Romantic Comedy",
+      "movie_title": "Say Anything"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "What About Bob?"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Steel Magnolias"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Steel Magnolias"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Spiderman"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Spiderman"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 95,
+      "movie_title": "Spiderman"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Spider-Man 2"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Spider-Man 2"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Spider-Man 3"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "Spider-Man 3"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "Spider-Man 3"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Incredibles 2"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "The Incredibles 2"
+    },
+    {
+      "genre": "Super Hero",
+      "movie_title": "The Incredibles 2"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "The Incredibles 2"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "21 Jump Street"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "21 Jump Street"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "21 Jump Street"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "21 Jump Street"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "22 Jump Street"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "22 Jump Street"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "22 Jump Street"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "22 Jump Street"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Dirty Grandpa"
+    },
+    {
+      "genre": "Raunchy",
+      "movie_title": "Dirty Grandpa"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 92,
+      "movie_title": "Dirty Grandpa"
+    },
+    {
+      "reviewer": "holly",
+      "score": 92,
+      "movie_title": "Dirty Grandpa"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Grown Ups"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 75,
+      "movie_title": "Grown Ups"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Grown Ups 2"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Horrible Bosses"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Dunkirk"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Dunkirk"
+    },
+    {
+      "genre": "War",
+      "movie_title": "Dunkirk"
+    },
+    {
+      "genre": "Historical",
+      "movie_title": "Dunkirk"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 85,
+      "movie_title": "Dunkirk"
+    },
+    {
+      "reviewer": "holly",
+      "score": 80,
+      "movie_title": "Dunkirk"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "Twisters"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "Twisters"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Coraline"
+    },
+    {
+      "genre": "Family",
+      "movie_title": "Coraline"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Smile"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "Smile"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "Smile"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "Smile"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "Scary Movie 2"
+    },
+    {
+      "genre": "Comedy",
+      "movie_title": "Scary Movie 2"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "Scary Movie 2"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "Scary Movie 2"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Others"
+    },
+    {
+      "genre": "Mystery",
+      "movie_title": "The Others"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 50,
+      "movie_title": "The Others"
+    },
+    {
+      "reviewer": "holly",
+      "score": 50,
+      "movie_title": "The Others"
+    },
+    {
+      "genre": "Drama",
+      "movie_title": "Sophie's Choice"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Sophie's Choice"
+    },
+    {
+      "genre": "Musical",
+      "movie_title": "Across the Universe"
+    },
+    {
+      "genre": "Romance",
+      "movie_title": "Across the Universe"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 88,
+      "movie_title": "Across the Universe"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Evil Dead"
+    },
+    {
+      "genre": "Horror",
+      "movie_title": "The Evil Dead"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "GoldenEye"
+    },
+    {
+      "genre": "Adventure",
+      "movie_title": "GoldenEye"
+    },
+    {
+      "genre": "Spy",
+      "movie_title": "GoldenEye"
+    },
+    {
+      "reviewer": "vinnie",
+      "score": 80,
+      "movie_title": "GoldenEye"
+    },
+    {
+      "genre": "Thriller",
+      "movie_title": "The Next Man"
+    },
+    {
+      "genre": "Action",
+      "movie_title": "The Next Man"
+    }
+  ]
+}
