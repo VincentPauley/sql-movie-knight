@@ -592,3 +592,8 @@ VALUES
     ("Biographical", 2),
     ("Kids", 2),
     ("Noir", 1);
+
+INSERT INTO reviewers (reviewer_name)
+VALUES
+    ("vinnie"),
+    ("holly");
