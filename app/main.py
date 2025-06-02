@@ -1,7 +1,7 @@
 import os
 
 import mysql.connector
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI
 
 app = FastAPI()
 
@@ -11,25 +11,48 @@ MYSQL_USER = os.getenv("MYSQL_USER", "root")
 MYSQL_PASSWORD = os.getenv("MYSQL_PASSWORD", "password")
 
 
-@app.get("/10-random-movies")
-def read_root():
+def get_db_connection():
+    conn = mysql.connector.connect(
+        host=MYSQL_HOST,
+        database=MYSQL_DATABASE,
+        user=MYSQL_USER,
+        password=MYSQL_PASSWORD,
+    )
     try:
-        conn = mysql.connector.connect(
-            host=MYSQL_HOST,
-            database=MYSQL_DATABASE,
-            user=MYSQL_USER,
-            password=MYSQL_PASSWORD,
-        )
+        yield conn
+    finally:
+        conn.close()
+
+
+@app.get("/10-random-movies")
+def get_random_movies(
+    conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
+):
+    try:
         cursor = conn.cursor()
 
-        # Example query: Fetch all rows from a table named 'movies'
         cursor.execute("SELECT * FROM movies ORDER BY RAND() LIMIT 10")
         movies = cursor.fetchall()
 
-        # Close the connection
         cursor.close()
-        conn.close()
 
         return {"message": "here are 10 random movies", "movies": movies}
+    except mysql.connector.Error as err:
+        return {"error": f"error happened: {err}"}
+
+
+@app.get("/genres")
+def get_genres(
+    conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
+):
+    try:
+        cursor = conn.cursor()
+
+        cursor.execute("SELECT * FROM genres")
+        genres = cursor.fetchall()
+
+        cursor.close()
+
+        return {"genres": genres}
     except mysql.connector.Error as err:
         return {"error": f"error happened: {err}"}

@@ -18,6 +18,8 @@ services:
   rest_api:
     build: './app'
     container_name: movieknight_rest_api
+    depends_on:
+      - db
     environment:
       MYSQL_DATABASE: ${MYSQL_DATABASE}
       MYSQL_USER: ${MYSQL_USER}
