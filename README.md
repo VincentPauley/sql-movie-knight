@@ -8,3 +8,5 @@ Up Next:
 update junction table json to include the ids from the movie table... this
 will include reading direct from sql and performing title match now that there
 have been some corrections.
+
+get genre ids into a junction_table json file

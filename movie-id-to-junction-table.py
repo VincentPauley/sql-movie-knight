@@ -564,17 +564,9 @@ def find_movie_id(movie_title):
     return None
 
 
-# i want the id from movie_ids to be inserted in each record form junction_json
-
 junctions_with_id = []
 
 for record in junction_json["records"]:
-    # print(record["movie_title"])
-    # {movie_exists_in_table(record['movie_title'])}
-
-    # if not movie_exists_in_table(record["movie_title"]):
-    #     print(f"correct: {record['movie_title']}")
-
     junctions_with_id.append(
         {
             # "title": record["movie_title"],
@@ -582,10 +574,6 @@ for record in junction_json["records"]:
             "movie_id": find_movie_id(record["movie_title"]),
         }
     )
-
-    # print(f"{record['movie_title']}: {find_movie_id(record['movie_title'])}")
-
-# print(junctions_with_id)  # write this to file now
 
 with open("junction_table-2.json", "w") as file:
     json.dump({"records": junctions_with_id}, file, indent=4)
