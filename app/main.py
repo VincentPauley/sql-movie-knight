@@ -66,6 +66,57 @@ async def get_all_genre_data(
         return {"error": str(err)}
 
 
+async def get_movies_by_genre_ids(
+    genre_ids: list, conn: mysql.connector.connection.MySQLConnection
+):
+    try:
+        # Create a cursor
+        cursor = conn.cursor(dictionary=True)  # Fetch rows as dictionaries
+
+        # Prepare the SQL query to fetch movies and all their associated genres
+        query = """
+            SELECT m.id AS movie_id, m.title, m.year, m.rated, g.id AS genre_id, g.genre_name AS genre_name
+            FROM movies AS m
+            INNER JOIN movie_genres AS mg ON m.id = mg.movie_id
+            INNER JOIN genres AS g ON mg.genre_id = g.id
+            WHERE m.id IN (
+                SELECT DISTINCT mg.movie_id
+                FROM movie_genres AS mg
+                WHERE mg.genre_id IN (%s)
+            )
+        """ % (", ".join(["%s"] * len(genre_ids)))  # Dynamically create placeholders
+
+        # Execute the query with genre IDs
+        cursor.execute(query, genre_ids)
+
+        # Fetch all rows
+        rows = cursor.fetchall()
+
+        # Close the cursor
+        cursor.close()
+
+        # Group genres by movie
+        movies = {}
+        for row in rows:
+            movie_id = row["movie_id"]
+            if movie_id not in movies:
+                movies[movie_id] = {
+                    "id": movie_id,
+                    "title": row["title"],
+                    "year": row["year"],
+                    "rated": row["rated"],
+                    "genres": [],
+                }
+            movies[movie_id]["genres"].append(
+                {"id": row["genre_id"], "name": row["genre_name"]}
+            )
+
+        # Return the list of movies with all their associated genres
+        return list(movies.values())
+    except mysql.connector.Error as err:
+        return {"error": str(err)}
+
+
 @app.get("/10-random-movies")
 def get_random_movies(
     conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
@@ -108,7 +159,9 @@ async def get_movies(
                 },
             )
         else:
-            return {"message": "ready for looking up with genres!"}
+            result = await get_movies_by_genre_ids(genre_list, conn)
+
+            return {"message": "ready for looking up with genres!", "result": result}
 
     # now at this point genre_list has all ids that you want to match genres for
 
