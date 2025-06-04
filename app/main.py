@@ -1,7 +1,7 @@
 import os
 
 import mysql.connector
-from fastapi import Depends, FastAPI
+from fastapi import Depends, FastAPI, Query
 
 app = FastAPI()
 
@@ -24,6 +24,24 @@ def get_db_connection():
         conn.close()
 
 
+async def get_all_genre_data(
+    conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
+):
+    try:
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM genres;")
+        genres = cursor.fetchall()
+        cursor.close()
+
+        genre_list = []
+
+        for genre in genres:
+            genre_list.append({"id": genre[0], "name": genre[1], "level": genre[2]})
+        return genre_list
+    except mysql.connector.Error as err:
+        return {"error": str(err)}
+
+
 @app.get("/10-random-movies")
 def get_random_movies(
     conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
@@ -41,17 +59,28 @@ def get_random_movies(
         return {"error": f"error happened: {err}"}
 
 
+@app.get("/movies")
+async def get_movies(
+    conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
+    genres: str = Query(None, description="one or more genre ids"),
+):
+    genre_list = []
+
+    if genres and "," in genres:
+        for genre_id in genres.split(","):
+            genre_list.append(genre_id)
+    elif genres:
+        genre_list.append(genres)
+
+    return {"genre_list": genre_list}
+
+
 @app.get("/genres")
-def get_genres(
+async def get_genres(
     conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
 ):
     try:
-        cursor = conn.cursor()
-
-        cursor.execute("SELECT * FROM genres")
-        genres = cursor.fetchall()
-
-        cursor.close()
+        genres = await get_all_genre_data(conn)
 
         return {"genres": genres}
     except mysql.connector.Error as err:
