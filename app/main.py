@@ -2,6 +2,7 @@ import os
 
 import mysql.connector
 from fastapi import Depends, FastAPI, Query
+from fastapi.responses import JSONResponse
 
 app = FastAPI()
 
@@ -22,6 +23,29 @@ def get_db_connection():
         yield conn
     finally:
         conn.close()
+
+
+async def validate_genre_ids(
+    genre_ids: list, conn: mysql.connector.connection.MySQLConnection
+):
+    # Fetch all genres from the database
+    all_genres = await get_all_genre_data(conn)
+
+    # Extract genre IDs from the database result
+    valid_genre_ids = {
+        genre["id"] for genre in all_genres
+    }  # Use a set for faster lookup
+
+    # Find invalid genre IDs
+    invalid_ids = [
+        genre_id for genre_id in genre_ids if genre_id not in valid_genre_ids
+    ]
+
+    # Return a dictionary with "valid" and optionally "invalid_ids"
+    return {
+        "valid": len(invalid_ids) == 0,
+        **({"invalid_ids": invalid_ids} if invalid_ids else {}),
+    }
 
 
 async def get_all_genre_data(
@@ -72,7 +96,23 @@ async def get_movies(
     elif genres:
         genre_list.append(genres)
 
-    return {"genre_list": genre_list}
+    if len(genre_list):
+        genre_validation_result = await validate_genre_ids(genre_list, conn)
+
+        if not genre_validation_result["valid"]:
+            return JSONResponse(
+                status_code=400,
+                content={
+                    "message": "Invalid genre id(s) were provided",
+                    "invalid_ids": genre_validation_result["invalid_ids"],
+                },
+            )
+        else:
+            return {"message": "ready for looking up with genres!"}
+
+    # now at this point genre_list has all ids that you want to match genres for
+
+    return {"message": "hit the default response"}
 
 
 @app.get("/genres")
