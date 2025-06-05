@@ -26,5 +26,12 @@ services:
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
     ports:
       - "8000:8000"
+  web_fe:
+    build: './web-fe'
+    container_name: movieknight_fe
+    depends_on:
+      - rest_api
+    ports:
+      - "3000:3000"
 volumes:
   sql_data:
