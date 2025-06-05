@@ -139,6 +139,8 @@ async def get_movies(
     conn: mysql.connector.connection.MySQLConnection = Depends(get_db_connection),
     genres: str = Query(None, description="one or more genre ids"),
 ):
+    # TODO: ideally would know what type of factors are being searched for
+    # and then call specific queries that could perform task as needed.
     genre_list = []
 
     if genres and "," in genres:
@@ -162,8 +164,6 @@ async def get_movies(
             result = await get_movies_by_genre_ids(genre_list, conn)
 
             return {"message": "ready for looking up with genres!", "result": result}
-
-    # now at this point genre_list has all ids that you want to match genres for
 
     return {"message": "hit the default response"}
 
