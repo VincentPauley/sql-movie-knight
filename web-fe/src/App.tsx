@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        <p>Movie App</p>
+        <p>Movie Knight App</p>
       </div>
     </>
   )

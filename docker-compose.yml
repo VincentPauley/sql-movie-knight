@@ -33,5 +33,8 @@ services:
       - rest_api
     ports:
       - "3000:3000"
+    volumes:
+      - ./web-fe:/app  # Mount the local source code directory
+      - /app/node_modules  # Prevent overwriting node_modules
 volumes:
   sql_data:
