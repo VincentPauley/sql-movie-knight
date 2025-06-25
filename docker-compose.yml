@@ -15,6 +15,8 @@ services:
     volumes:
       - sql_data:/var/lib/mysql
       - ./bootstrap.sql:/docker-entrypoint-initdb.d/bootstrap.sql
+    networks:
+      - movieknight_network
   rest_api:
     build: './app'
     container_name: movieknight_rest_api
@@ -26,6 +28,8 @@ services:
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
     ports:
       - "8000:8000"
+    networks:
+      - movieknight_network
   web_fe:
     build: './web-fe'
     container_name: movieknight_fe
@@ -36,5 +40,9 @@ services:
     volumes:
       - ./web-fe:/app  # Mount the local source code directory
       - /app/node_modules  # Prevent overwriting node_modules
+    networks:
+      - movieknight_network
+networks:
+  movieknight_network:
 volumes:
   sql_data:
